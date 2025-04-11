@@ -131,7 +131,7 @@ This project is licensed under the MIT License.
 *Full Stack Developer | React.js Specialist | Firebase Lover*
 
 - GitHub: [@Muhammad Siddique Jagirani](https://github.com/Siddique145)
-- Portfolio: [Coming Soon]
+- Portfolio: [@Muhammad Siddique Jagirani](https://muhammadsiddique.vercel.app/)
 
 ---
 
